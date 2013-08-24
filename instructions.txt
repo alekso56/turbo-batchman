@@ -1,0 +1,3 @@
+Project homepage: http://code.google.com/p/spraygen/
+
+please go there for instructions, bug reports and to download the latest version
